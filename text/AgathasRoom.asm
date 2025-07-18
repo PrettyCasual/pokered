@@ -42,3 +42,5 @@ _AgathasRoomAgathaDontRunAwayText::
 	text "Someone's voice:"
 	line "Don't run away!"
 	done
+
+; this is a comment that I made
